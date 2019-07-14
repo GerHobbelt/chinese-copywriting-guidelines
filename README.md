@@ -249,6 +249,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [huacnlee/auto-correct](https://github.com/huacnlee/auto-correct) | Ruby
 [sparanoid/space-lover](https://github.com/sparanoid/space-lover) | PHP (WordPress)
 [nauxliu/auto-correct](https://github.com/NauxLiu/auto-correct) | PHP
+[ricoa/copywriting-correct](https://github.com/ricoa/copywriting-correct)                                                       | PHP             |
 [jxlwqq/chinese-typesetting](https://github.com/jxlwqq/chinese-typesetting) | PHP
 [hotoo/pangu.vim](https://github.com/hotoo/pangu.vim) | Vim
 [sparanoid/grunt-auto-spacing](https://github.com/sparanoid/grunt-auto-spacing) | Node.js (Grunt)
@@ -267,8 +268,11 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 [Microsoft 香港](https://www.microsoft.com/zh-hk/) | Yes | N/A
 [Microsoft 台灣](https://www.microsoft.com/zh-tw/) | Yes | N/A
 [LeanCloud](https://leancloud.cn/) | Yes | N/A
+[知乎](https://www.zhihu.com/) | Yes | 部分用户达成
 [V2EX](https://www.v2ex.com/) | Yes | Yes
+[SegmentFault](https://segmentfault.com/) | Yes | 部分用户达成
 [Apple4us](https://apple4us.com/) | Yes | N/A
+[豌豆荚](https://www.wandoujia.com/) | Yes | N/A
 [Ruby China](https://ruby-china.org/) | Yes | 標題達成
 [PHPHub](https://phphub.org/) | Yes | 標題達成
 [少數派](https://sspai.com/) | Yes | N/A
